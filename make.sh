@@ -1,0 +1,1 @@
+g++ -o foldGenomics *.cpp
